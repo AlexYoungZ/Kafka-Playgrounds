@@ -1,5 +1,7 @@
 # Kafka Security
-Setup and configure Security functionality in Kafka.  
+Setup SSL Encryption & Authentication, SASL Kerberos Authentication and ACL for authorization for Kafka security.   
+
+
 This repo uses OpenSource Apache Kafka deployed on EC2 (AWS).  
 
 [goto setup Kafka](./Setup-Kafka)
