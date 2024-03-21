@@ -1,2 +1,2 @@
 # Kafka-Playgrounds
-A series of Kafka projects including Kafka connect, schema registry with Avro, security, streams and monitor hosted on AWS EC2 instance.
+A series of Kafka projects including Kafka Connect, Streams, Confluent Schema Registry with Avro and Kafka REST Proxy, Security, Monitoring and Cluster Management
